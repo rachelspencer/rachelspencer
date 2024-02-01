@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<h2> In 2022 I discovered coding and since then I have made it my mission to become a full-time frontend developer. I want an intellectually stimulating career that promotes personal progress and development, where change is inevitable. </h2>
+<h3> In 2022 I discovered coding and since then I have made it my mission to become a full-time frontend developer. I want an intellectually stimulating career that promotes personal progress and development, where change is inevitable. </h3>
   
 </div>
 
