@@ -27,7 +27,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on an **itenerary builder app**.
+🔭 I’m currently working on an **itinerary builder app**.
 
 🌱 I’m currently learning **Nextjs**.
 
