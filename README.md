@@ -12,17 +12,28 @@
   
 </div>
 
+<div align="center">
+    
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web)](https://rachel-spencer.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rachel-spencer-87a539246/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/coderdownunder)
+
+
+</div>
+
 <br/>
 
 <div align="center">
   
-🔭 I’m currently working on an itenerary builder app.
+🔭 I’m currently working on an **itenerary builder app**.
 
-🌱 I’m currently learning Nextjs.
+🌱 I’m currently learning **Nextjs**.
 
-👯 I’m looking to forward to the Feb-April Collab Lab program.
+👯 I’m looking forward to the **Feb-April [Collab Lab program](https://the-collab-lab.codes/)**.
 
-💬 Ask me about how many existential crises I have had since dreaming big to be a coder.
+💬 Ask me about how **many existential crises I have had since dreaming big to be a coder**.
 
 ⚡ Fun fact: I have three brothers, a mentor named Michael and a cat named Misty.
 
