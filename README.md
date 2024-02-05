@@ -14,7 +14,7 @@
 
 <div align="center">
     
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web)]([https://rachel-spencer.netlify.app/](https://rachelkayspencer.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web)](https://rachelkayspencer.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rachel-spencer-87a539246/)
 
