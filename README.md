@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rachelspencer.rachelspencer" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=G'Day!+👋;+I'm+Rachel+Spencer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=G'Day!+Mate👋;+I'm+Rachel+Spencer!;" />
 </h1> 
 
 <h3 align="center">🦘Coder from Down Under 🇦🇺</h3>
@@ -38,5 +38,7 @@
 ⚡ Fun fact: I have three brothers, a mentor named Michael and a cat named Misty.
 
 💍 Engaged to a Southern gentleman. 
+
+⭐ Whats the latest? I applied for the Pinterest SWE Apprenticeship 🤞
 
 </div>
