@@ -39,6 +39,6 @@
 
 💍 Engaged to a Southern gentleman. 
 
-⭐ Whats the latest? I applied for the Pinterest SWE Apprenticeship 🤞
+⭐ Whats the latest? I applied for a job at Natural Cycles 🤞
 
 </div>
