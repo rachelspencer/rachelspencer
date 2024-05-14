@@ -31,7 +31,7 @@
 
 🌱 I’m currently learning **Nextjs**.
 
-👯 I’m looking forward to the **Feb-April [Collab Lab program](https://the-collab-lab.codes/)**.
+👯 Proud Collabie ** [Collab Lab program](https://the-collab-lab.codes/)**.
 
 ⚡ Fun fact: I have three brothers, a mentor named Michael and a cat named Misty.
 
