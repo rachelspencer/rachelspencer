@@ -33,12 +33,10 @@
 
 👯 I’m looking forward to the **Feb-April [Collab Lab program](https://the-collab-lab.codes/)**.
 
-💬 Ask me about how **many existential crises I have had since dreaming big to be a coder**.
-
 ⚡ Fun fact: I have three brothers, a mentor named Michael and a cat named Misty.
 
-💍 Engaged to a Southern gentleman. 
+💍 Married to a Southern gentleman. 
 
-⭐ Whats the latest? I applied for a job at Natural Cycles 🤞
+⭐ Whats the latest? I applied for a job at AssemblyAI 🤞
 
 </div>
