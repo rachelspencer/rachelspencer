@@ -37,6 +37,4 @@
 
 💍 Married to a Southern gentleman. 
 
-⭐ Whats the latest? I applied for a job at AssemblyAI 🤞
-
 </div>
