@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<h3> In 2022 I discovered coding and since then I have made it my mission to become a full-time frontend developer. I want an intellectually stimulating career that promotes personal progress and development, where change is inevitable. </h3>
+<h3> In 2022, I discovered my passion for coding and set out on a mission to become a full-time frontend developer. Along the way, I found joy in designing websites and developed a strong interest in UI/UX design. I’m eager for a career that offers intellectual stimulation, fosters personal growth, and embraces change—whether as a software engineer or a designer, I’m excited about the opportunities ahead! </h3>
   
 </div>
 
@@ -35,6 +35,5 @@
 
 ⚡ Fun fact: I have three brothers, a mentor named Michael and a cat named Misty.
 
-💍 Married to a Southern gentleman. 
 
 </div>
